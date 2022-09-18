@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
 
         dbPg = findViewById(R.id.dbPg);
         snd_msg = findViewById(R.id.snd_msg);
-        EditText msg_val = findViewById(R.id.msg_val);
+        msg_val = findViewById(R.id.msg_val);
     }
 
     /** Called when the user taps the Send button */
